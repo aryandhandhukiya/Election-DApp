@@ -26,7 +26,7 @@ Follow the steps below to download, install, and run this project.
 
 ## Step 2. Install dependencies
 ```
-$ cd election
+$ cd Election-DApp
 $ npm install
 ```
 ## Step 3. Start Ganache
